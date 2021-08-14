@@ -1,5 +1,5 @@
 # GLFW
-Basic setting for GLFW project using cmake
+Basic command for GLFW project using cmake
 
 _To build and run project in command line_
 ```shell
